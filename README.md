@@ -22,7 +22,7 @@
    ```bash
    git clone https://github.com/LoaiDevOps7/json-placeholder-app.git
 
-   👩‍💻 المطور
+المطور
 لؤي حمود
 مطور Full-Stack Developer
 البريد الإلكتروني: loaidevop.work@gmail.com
